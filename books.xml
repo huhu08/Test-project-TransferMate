@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<books status = "ok">
+<book>
+    <author>Isak Azimov</author>
+    <name>End of spirit</name>
+</book>
+<book>
+    <author>3</author>
+    <name>Standard</name>
+</book>
+</books>
